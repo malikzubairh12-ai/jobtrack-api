@@ -1,6 +1,6 @@
 # JobTrack API Pro
 
-A backend application for tracking job applications. This is a realistic portfolio project for Java Backend / Werkstudent applications.
+A backend application for tracking job applications. 
 
 ## Tech Stack
 
@@ -61,6 +61,4 @@ jdbc:h2:mem:jobtrackdb
 | GET | `/api/applications/status/APPLIED` | Filter by status |
 | GET | `/api/applications/stats` | Get statistics |
 
-## CV text
 
-**JobTrack API Pro** — Developed a Spring Boot REST API for managing job applications. Implemented CRUD endpoints, database persistence with JPA, validation, search/filter features, statistics endpoint, centralized exception handling and unit tests.
